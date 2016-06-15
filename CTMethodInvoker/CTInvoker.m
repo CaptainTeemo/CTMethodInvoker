@@ -7,7 +7,6 @@
 //
 
 #import "CTInvoker.h"
-#import <objc/runtime.h>
 
 @implementation CTInvoker
 
